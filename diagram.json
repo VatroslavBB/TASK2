@@ -11,7 +11,7 @@
       "left": -188.2,
       "attrs": { "color": "purple", "flip": "1" }
     },
-    { "type": "wokwi-potentiometer", "id": "pot1", "top": 123.5, "left": -48.2, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": 104.3, "left": -38.6, "attrs": {} },
     {
       "type": "wokwi-resistor",
       "id": "r1",
